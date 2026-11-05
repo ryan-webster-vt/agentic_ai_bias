@@ -1,0 +1,7 @@
+# Secrets
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
